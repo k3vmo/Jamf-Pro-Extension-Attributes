@@ -1,5 +1,5 @@
 #!/bin/zsh
-# Purpose: List of apps on the client that require TCC authorization and whether they have been enabled or disabled.
+# Purpose: List of apps on the client that require TCC authorization and whether they have been enabled or disabled
 #
 # Potential values include:
 # -Cannot Access TCC.db
