@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # This checks to see if the authorizationdb right: system.preferences.datetime has been set to allow
-# Reports:
+
 # "Allow" if set
 # "Not Set" if not set
 # "Unsupported OS" if OS is lower than 10.9
