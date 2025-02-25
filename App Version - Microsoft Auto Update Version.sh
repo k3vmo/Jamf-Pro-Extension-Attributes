@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Determines if Microsoft Auto Update is installed and its full version
-# Values can be either: version number, "Not Present" or "Unknown"
+# Values can be either: version number, 'Not Present' or 'Unknown'
 
 # Determine if app exists
 app="/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/Info.plist"
